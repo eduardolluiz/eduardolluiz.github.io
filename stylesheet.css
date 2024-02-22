@@ -1,0 +1,36 @@
+body{
+    background-color: cornflowerblue;
+    margin-top: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    margin-left: 10px;
+    font-size: medium;
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center{
+    background-color: coral;
+    border: 5px solid black;
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+.title{
+    color: cornflowerblue;
+    text-align: center;
+    text-shadow: black 3px 3px 3px ;
+}
+
+.logo{
+    display: block;
+    margin: 0 auto;
+}
